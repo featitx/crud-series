@@ -43,8 +43,8 @@ This project serves as a hands-on learning experience for understanding and impl
 
 1. Clone the repository:
    
-   - git clone https://github.com/
-   - cd react-crud-task
+   - git clone https://github.com/featitx/crud-series/tree/crud-1
+   - cd Crud-PT.1
    - npm i 
    - npm start
 
